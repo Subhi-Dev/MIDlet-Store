@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+
+<wml>
+  <card id="main" title="MIDlet Store">
+    <p>Welcome to the MIDlet Store!</p>
+    <p>
+      <a href="#games">Games</a><br/>
+      <a href="#utilities">Utilities</a><br/>
+      <a href="#productivity">Productivity</a>
+    </p>
+  </card>
+  
+  <card id="games" title="Games">
+    <p>Games Category</p>
+    <p>
+      <a href="#game1">Game 1</a><br/>
+      <a href="#game2">Game 2</a><br/>
+      <a href="#main">Back to Main</a>
+    </p>
+  </card>
+  
+  <card id="utilities" title="Utilities">
+    <p>Utilities Category</p>
+    <p>
+      <a href="#utility1">Utility 1</a><br/>
+      <a href="#utility2">Utility 2</a><br/>
+      <a href="#main">Back to Main</a>
+    </p>
+  </card>
+  
+  <card id="productivity" title="Productivity">
+    <p>Productivity Category</p>
+    <p>
+      <a href="#prod1">App 1</a><br/>
+      <a href="#prod2">App 2</a><br/>
+      <a href="#main">Back to Main</a>
+    </p>
+  </card>
+</wml>

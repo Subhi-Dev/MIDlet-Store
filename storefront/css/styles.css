@@ -1,0 +1,50 @@
+/* Basic styles for WAP/XHTML-MP applications */
+body {
+  font-family: sans-serif;
+  font-size: small;
+  margin: 2px;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+#header {
+  background-color: #003366;
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
+
+#content {
+  margin: 5px;
+}
+
+#footer {
+  font-size: x-small;
+  text-align: center;
+  margin-top: 10px;
+  padding: 3px;
+  border-top: 1px solid #999;
+}
+
+h1 {
+  font-size: medium;
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #660099;
+}
